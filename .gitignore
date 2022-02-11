@@ -1,0 +1,9 @@
+/dockerfiles/mysql/data/*
+/dockerfiles/redis/data/*
+/www
+*.log
+.vscode
+root/.bash_history
+home/*
+dockerfiles/logs/nginx/error.log
+.idea
